@@ -6,7 +6,7 @@ name := "blueprints-scala"
 
 version := "0.0.6-SNAPSHOT"
 
-scalaVersion := "2.9.1"
+scalaVersion := "2.9.2"
 
 scalacOptions := Seq("-unchecked", "-deprecation")
 
